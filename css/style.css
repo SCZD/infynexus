@@ -1,0 +1,44 @@
+* {
+  -webkit-transition-property: all;
+  -moz-transition-property: all;
+  -webkit-transition-duration: .18s;
+  -moz-transition-timing-function: cubic-bezier(0, 0, 1, 1);
+}
+
+body{
+    background:rgb(25,25,25);
+    padding:75px;
+    text-align: center;
+    font-family: sans-serif;
+    
+}
+
+body h1{
+    color:white;
+    font-weight:1000;
+    margin-bottom: 400px;
+}
+body h3{
+    color:white;
+    font-size: 10px;
+    font-weight:100;
+    position: relative;
+    top: -400px;
+}
+.menu{
+ 
+    font-size:14px;
+    color:white;
+    text-transform:uppercase;
+    text-decoration:none;
+    letter-spacing:3px;
+    margin: 35px;
+    padding: 25px;
+    
+}
+.menu:hover{
+    background:#fff;
+    padding:300px 40px; 
+    color: black;
+    
+}
