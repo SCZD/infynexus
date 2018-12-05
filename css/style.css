@@ -18,13 +18,15 @@ color: rgb(255,105,180);
 text-decoration: none;
 
 }
-.menu{
+.span{
   
   font-weight:bold;
 
 
 }
-
+li {
+  margin:4px;
+}
 
 
 
