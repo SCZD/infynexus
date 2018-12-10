@@ -6,7 +6,7 @@
 }
 body {
   padding-left: 50px;
-  
+  background:#71767a;
 }
 
 header{
@@ -31,7 +31,8 @@ li {
 .blue{color:blue;}
 .purple{color:purple;}
 .black{color:black;}
-.green{color:gren;}
+.green{color:green;}
+.green{color:green;}
 
 
 
