@@ -13,6 +13,11 @@ header{
   
   
 }
+.logo{
+  width=125px;
+  height=100px;
+  
+}
 a{
 color: rgb(255,105,180);
 text-decoration: none;
