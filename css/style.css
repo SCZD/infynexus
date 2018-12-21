@@ -17,8 +17,13 @@ header{
   margin-top:250px;
   width=125px;
   height=100px;
-  text-aling="center";
+  ;
   
+}
+.name{
+ 
+ text-align: center;
+
 }
 a{
 color: rgb(255,105,180);
