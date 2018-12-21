@@ -19,8 +19,8 @@ header{
   height=100px;
   position: absolute;
    
-    transform: translate(-50%, -50%);
-    text-align: center;;
+  transform: translate(-50%, -50%);
+  text-align: center;
   
 }
 .name{
